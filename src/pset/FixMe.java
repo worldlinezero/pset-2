@@ -1,4 +1,4 @@
-package pset2;
+package pset;
 
 public class FixMe {
     public static void main (String args[]) {
